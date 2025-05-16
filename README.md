@@ -1,18 +1,26 @@
-## Getting Started
+# 🍔 Sistema de Lanchonete em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é o meu **primeiro projeto Java**, criado com o objetivo de praticar os principais conceitos de **Programação Orientada a Objetos (POO)**. O sistema simula o funcionamento básico de uma lanchonete, permitindo o cadastro de produtos, criação de pedidos e exibição de um resumo da venda.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- ✅ Cadastro de produtos com nome e preço
+- ✅ Criação de pedidos com múltiplos itens
+- ✅ Cálculo do valor total do pedido
+- ✅ Exibição do resumo do pedido
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias utilizadas
 
-## Dependency Management
+- [Java](https://www.java.com/)
+- Programação Orientada a Objetos (POO)
+- IDE: VS Code
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 📦 Estrutura do Projeto
+
+
