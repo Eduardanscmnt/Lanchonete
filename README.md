@@ -22,5 +22,23 @@ Este é o meu **primeiro projeto Java**, criado com o objetivo de praticar os pr
 ---
 
 ## 📦 Estrutura do Projeto
+Lanchonete/SRC/
+├── Lanchonete.java
+├── Item.java
+└── Carrinho.java
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Praticar os pilares da Programação Orientada a Objetos:
+  - Abstração
+  - Encapsulamento
+  - Herança (se aplicável)
+  - Polimorfismo
+- Melhorar a lógica de programação
+- Entender a estrutura básica de um sistema em Java
+
+
 
 
